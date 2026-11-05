@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "channel": "stable",
+  "version": "2.1.36",
+  "buildNumber": 12116,
+  "releaseNotes": "Corrige metadados de artista em downloads, separa musicas baixadas da biblioteca do dispositivo, estabiliza mini player/player e melhora o avanco da fila com a tela desligada.",
+  "forceUpdate": false,
+  "publishedAt": "2026-11-04T16:25:45.491803Z",
+  "packages": {
+    "android": {
+      "url": "https://github.com/Maicon501a/fluxo-releases/releases/latest/download/fluxo-release.apk",
+      "fileName": "app-release.apk",
+      "sha256": "6361898b209e714797b279a75f9d759324ba7c9b5a89c475d1d4ba7307bdffa9",
+      "sizeBytes": 134254603,
+      "contentType": "application/vnd.android.package-archive"
+    }
+  },
+  "signature": {
+    "algorithm": "ed25519",
+    "keyId": "fluxo-update-2026-04",
+    "value": "jELl3/9WDhrZhyhm48hHHIy2kwgkOrrZJ9Hmob9hlp/Cqy3p21wgGIG+NrsyeYGJe7xBVt0wLZhbh7dCGhQHCQ=="
+  }
+}
