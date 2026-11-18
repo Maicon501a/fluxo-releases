@@ -1,23 +1,23 @@
 {
   "schemaVersion": 2,
   "channel": "stable",
-  "version": "2.1.39",
-  "buildNumber": 14122,
-  "releaseNotes": "Corrige travadas e quedas no meio da reprodução de áudio, melhora a recuperação automática da sessão, ajusta a reprodução de vídeo no desktop, adiciona Fluxo Connect e traz melhorias gerais na interface.",
+  "version": "2.1.40",
+  "buildNumber": 14123,
+  "releaseNotes": "Downloads corrigidos no Android e Windows com retomada automática e reprodução offline, grande otimização de desempenho e fluidez (90/120Hz), modo vídeo no celular e correções no shuffle, sleep timer, podcasts e Fluxo Connect.",
   "forceUpdate": false,
-  "publishedAt": "2026-11-14T03:06:26.105334Z",
+  "publishedAt": "2026-11-18T03:21:23.927530Z",
   "packages": {
     "android": {
       "url": "https://github.com/Maicon501a/fluxo-releases/releases/latest/download/fluxo-release.apk",
       "fileName": "app-release.apk",
-      "sha256": "0da2d093701d17b9465ef87ec34afc0dbaadf6e0b363315fd0b5cc3bfb2d1856",
-      "sizeBytes": 128176139,
+      "sha256": "5e5d868dbf669c46b92cacb12b0097f9ae8844f1c96a6f1989be4b2870c1cb0c",
+      "sizeBytes": 128929819,
       "contentType": "application/vnd.android.package-archive"
     }
   },
   "signature": {
     "algorithm": "ed25519",
     "keyId": "fluxo-update-2026-04",
-    "value": "HnoXSmZDdB/upRP9nwpopFDVk9Zv67EvJX1FpfwkWfiNz8WjRAPVt1rhY/uMpnDJDaeq95FSR05S7gRVodAyCA=="
+    "value": "EoisqC5vnd58G+r47ehU/4bZNmwXRZ0P/Rha1fv1IO7CEjRxVG9WpQwI2BvRoeBoZMVRzGPP5R5L4I0hTV48Cw=="
   }
 }
